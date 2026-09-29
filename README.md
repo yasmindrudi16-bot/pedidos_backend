@@ -1,7 +1,7 @@
 # Pedidos Backend MVC DC
 Back-end com duas coleções mockup JSON clientes e pedidos, CRUD, para aprender, MVC e UML diagrama de classes
 ## Diagrama
-![UML DC](./docs/classes_UML.png)
+![UML DC](./tabela_UML.drawio.png)
 ## Tecnologiass
 -Node.js
 -VsCode ( Thunder Client)
