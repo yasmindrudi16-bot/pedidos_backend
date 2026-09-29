@@ -1,1 +1,15 @@
-# pedidos_backend
+# Pedidos Backend MVC DC
+Back-end com duas coleções mockup JSON clientes e pedidos, CRUD, para aprender, MVC e UML diagrama de classes
+## Diagrama
+![UML DC](./tabela_UML.drawio.png)
+## Tecnologiass
+-Node.js
+-VsCode ( Thunder Client)
+-JavaScript
+-MVC
+
+## Passos para testar
+-Clone este repositório e abra com o VsCode
+-Instale as dependências e execute com os seguintes comandos no terminal :
+npm install
+npm run dev
